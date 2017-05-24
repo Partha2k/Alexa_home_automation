@@ -1,0 +1,23 @@
+{
+    "intents": [{
+        "intent": "LightOnIntent"
+    }, {
+        "intent": "LightOffIntent"
+    }, {
+        "intent": "FanOnIntent"
+    }, {
+        "intent": "FanOffIntent"
+    }, {
+        "intent": "ACOnIntent"
+    }, {
+        "intent": "ACOffIntent"
+    }, {
+        "intent": "MusicOnIntent"
+    }, {
+        "intent": "MusicOffIntent"
+    }, {
+        "intent": "WhoIntent"
+    }, {
+        "intent": "AMAZON.StopIntent"
+    }]
+}

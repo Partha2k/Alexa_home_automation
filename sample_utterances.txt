@@ -1,0 +1,37 @@
+LightOnIntent Turn the Light on please
+LightOnIntent Turn on the Light
+
+LightOffIntent Put the light out
+LightOffIntent Turn the light off
+LightOffIntent Turn off the light
+LightOffIntent Put out the light
+
+FanOnIntent Turn the Fan on
+FanOnIntent Start the Fan
+FanOnIntent Turn on The fan
+FanOnIntent Let the Fan spinning
+
+FanOffIntent Stop the Fan
+FanoffIntent Turn the Fan off
+FanOffIntent Turn off the fan
+FanoffIntent Stop spinning the fan
+
+ACOnIntent Turn on the Air Conditioner
+ACOnIntent Turn the Air conditioner on
+ACOnIntent Let the Air conditioner start cooling
+
+ACOffIntent Turn off the Air Conditioner
+ACOffIntent Turn the Air Conditioner off
+ACOffIntent Stop the Air Conditioner from further cooling
+
+MusicOnIntent Turn on the music system
+MusicOnIntent Turn the music system on
+MusicOnINtent Let the music come alive
+
+MusicOffIntent Turn off the music system
+MusicOffIntent Turn the music system off
+MusicOffIntent Shut down music system
+
+WhoIntent Who created this skill
+WhoIntent Who developed this skill
+WhoIntnet By whom this skill was being developed
